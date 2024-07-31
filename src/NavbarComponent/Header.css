@@ -1,0 +1,13 @@
+.btn-danger:hover,
+.btn-danger:active {
+  background-color: initial;
+  color: #FF4742;
+}
+
+.btn-danger:active {
+  opacity: 0.5;
+}
+
+.image{
+  border-radius: 50%;
+}
